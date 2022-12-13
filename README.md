@@ -23,5 +23,5 @@ Oiii! 👋
 
 </div>
 
-![Snake animation](https://github.com/Danielepaiva/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Danielepaiva)
  
