@@ -23,5 +23,5 @@ Oiii! 👋
 
 </div>
 
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images-cdn.newscred.com/Zz04NjA3ZjljMjQ0ODkxMWViOWRjYzU1OGJkNjI1ZjVkZA==">
+![Snake animation](https://github.com/Danielepaiva)
  
