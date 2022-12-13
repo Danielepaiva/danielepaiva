@@ -23,5 +23,4 @@ Oiii! 👋
 
 </div>
 
-![Snake animation](https://github.com/Danielepaiva)
  
